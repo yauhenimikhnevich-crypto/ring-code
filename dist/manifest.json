@@ -1,0 +1,20 @@
+{
+  "name": "RingCode - Генератор кольцевых кодов",
+  "short_name": "RingCode",
+  "description": "Создавайте уникальные кольцевые коды с Reed-Solomon коррекцией ошибок",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081020",
+  "theme_color": "#081020",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "ru"
+}
